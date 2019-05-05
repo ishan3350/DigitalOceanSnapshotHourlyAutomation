@@ -16,6 +16,8 @@ You can use Crontab if you are using linux or you can use cronjob if you are usi
 
 https://cron-job.org/en/
 
+If you are using cron-job.org for cron job then please use post method.
+
 You need to execute snapshot_automation.php file every minute or whatever frequency you like.
 
 I recommend using cron frequency of 10 minutes or every hour because for larger droplets it may take sometime to create snapshot.
