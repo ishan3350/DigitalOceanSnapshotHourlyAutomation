@@ -18,6 +18,8 @@ https://cron-job.org/en/
 
 You need to execute snapshot_automation.php file every minute or whatever frequency you like.
 
+I recommend using cron frequency of 10 minutes because for larger droplets it may take sometime to create snapshot.
+
 
 ###### Source:
 https://www.ekreative.com/digital-ocean-api-daily-backups/
