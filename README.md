@@ -12,11 +12,6 @@ You will need to delete all current snapshots which is taken manually or using a
 
 ###### Cronjob instruction
 
-You can use Crontab if you are using linux or you can use cronjob if you are using cPanel or there is another site for setting up cron jobs free of cost
-
-https://cron-job.org/en/
-
-If you are using cron-job.org for cron job then please use post method.
 
 You need to execute snapshot_automation.php file every minute or whatever frequency you like.
 
