@@ -7,6 +7,8 @@ You will need valid DigitalOcean Token
 
 You will need valid DigitalOcean Droplet ID
 
+You will need to delete all current snapshots which is taken manually or using any other script or software program
+
 
 ###### Cronjob instruction
 
