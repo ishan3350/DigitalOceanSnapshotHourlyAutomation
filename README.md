@@ -14,6 +14,8 @@ You can use Crontab if you are using linux or you can use cronjob if you are usi
 
 https://cron-job.org/en/
 
+You need to execute snapshot_automation.php file every minute or whatever frequency you like.
+
 
 ###### Source:
 https://www.ekreative.com/digital-ocean-api-daily-backups/
